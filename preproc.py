@@ -5,7 +5,6 @@
 
 
 import pandas as pd
-import unicodedata
 from fastai.text import * 
 from fastai.callbacks import *
 from sklearn.model_selection import train_test_split
