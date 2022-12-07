@@ -1,4 +1,4 @@
-# meli-competition
+# Mercado Libre Label Reliability Competition
 
 Submission for the Mercado Libre competition.
 
